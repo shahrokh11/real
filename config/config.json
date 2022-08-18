@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa8E9A8C6Bc3A29D1AC93c41238Cd881AEdEc78fd",
+  "SCAN_LINK": "https://etherscan.io/address/0xa8e9a8c6bc3a29d1ac93c41238cd881aedec78fd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Real Friends",
+  "SYMBOL": "RF",
+  "MAX_SUPPLY": 6000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 185000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io",
+  "SHOW_BACKGROUND": true
+}
